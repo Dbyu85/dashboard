@@ -88,3 +88,44 @@ git remote add origin https://github.com/Dbyu85/dashboard.git
 git push
 git status
 git add
+git add .
+git commit -m"adding dashboard file"
+git push
+exit
+ls
+status
+git status
+git add .
+git commit -m"adding to github"
+git remote add origin https://github.com/Dbyu85/dashboard.git
+git push
+git status
+git init
+git add .
+git remote add origin https://github.com/Dbyu85/dashboard.git
+git push
+git push git remote add origin https://github.com/Dbyu85/dashboard.git
+ls
+cd 
+git commit -m"dashboard repository"
+git add .
+git push -u origin master
+git status
+cd .
+git init
+git add .
+git commit -m"adding average salary"
+git push
+git push -u origin master
+git status
+git commit -m"average salary uppdate"
+git add.
+git add
+git status
+git add
+git add .
+git commit -m" average salary"
+git push
+git push -u original master
+cd
+git status
