@@ -129,3 +129,39 @@ git push
 git push -u original master
 cd
 git status
+git add .
+git commit -m "average salary"
+git push
+git status
+git add .
+git commit -m "adding Rank distribution"
+git push -u master original
+git push
+git push -u origin master
+git status
+git commit -m"adding Rank distribution"
+git push u- origin master
+Dbyu85
+git push -u origin master
+git pull
+git push -u origin master
+sl
+git sl
+cd
+git status
+git sl
+ls
+git status
+git add .
+git commit -m "Rank distribution"
+git push -u origin master
+cd
+git status
+ls
+git status
+git add .
+git comit -m "adding rank distribution"
+git puss -u origin master
+git push -u origin master
+git status
+history
