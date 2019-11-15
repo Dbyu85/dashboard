@@ -185,3 +185,13 @@ sl
 ls
 cd
 git status
+git add .
+git commit -m "adding graphs balance, salary, distributioin"
+git push -u origin master
+ls
+cd
+git status
+git add .
+git cimmit -m "correcting wrong spelling words"
+git push -u origin master
+git status

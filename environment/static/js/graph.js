@@ -158,7 +158,7 @@ function show_rank_distribution(ndx) {
                 return p;
             },
             function() {
-                return (total = 0, match = 0);
+                return { total: 0, match: 0 };
             }
         );
     }
@@ -187,4 +187,6 @@ function show_rank_distribution(ndx) {
         .xUnits(dc.units.ordinal)
         .legend(dc.legend().x(320).y(20).itemHeight(15).gap(5))
         .margins({ top: 10, right: 100, bottom: 30, left: 30 });
+
+
 }
