@@ -165,3 +165,23 @@ git puss -u origin master
 git push -u origin master
 git status
 history
+git add .
+git commit -m "Adding rank distribution"
+git push
+git status
+git add .
+git command -m "adding graph balance, salary, distribution"
+git commit -m "adding graphs balance, salary, distribution"
+git push
+git push -u origin master
+git push -u origin master
+git status
+git add .
+git push -u origin master
+git add .
+git commit -m "adding graphs balance, salary, distribution"
+git push -u origin master
+sl
+ls
+cd
+git status
