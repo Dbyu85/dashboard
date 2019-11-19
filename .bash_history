@@ -195,3 +195,9 @@ git add .
 git cimmit -m "correcting wrong spelling words"
 git push -u origin master
 git status
+git add .
+git commit -m "updating"
+git push -u origin master
+ls
+cd
+git status
