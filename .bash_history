@@ -201,3 +201,10 @@ git push -u origin master
 ls
 cd
 git status
+git add .
+git commit -m "updating the graphs"
+git push -u origin master
+exit
+ls
+cd
+git status
