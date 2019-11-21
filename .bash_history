@@ -213,3 +213,10 @@ git commit -m "html layout"
 git push -u origin master
 git push -u origin master
 git status
+git add .
+git commit -m "updating"
+git push -u origin master
+exit
+ls
+cd
+git status
