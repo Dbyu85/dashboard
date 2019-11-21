@@ -208,3 +208,8 @@ exit
 ls
 cd
 git status
+git add .
+git commit -m "html layout"
+git push -u origin master
+git push -u origin master
+git status
